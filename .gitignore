@@ -1,0 +1,17 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+graphify-out/
+.vscode/
+
+# Dataset CIC-IDS2017 (~400MB, file >100MB GitHub tu choi) - tai lai tu trang CIC
+Dataset/
+# Ban sao luu cuc bo truoc khi sua
+backup_truoc_sua_*/
+# Du lieu chay that: pcap, nhat ky live, ket qua du doan lon
+pcaps/
+*.pcap
+Results/*.csv
+Results/kiem_thu/
+Results/lech_mien/

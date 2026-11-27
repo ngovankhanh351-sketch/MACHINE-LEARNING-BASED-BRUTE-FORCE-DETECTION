@@ -1,0 +1,14 @@
+# Phien ban da kiem thu voi cac model trong models/
+# scikit-learn PHAI trung phien ban da dung de luu model (1.9.1)
+scikit-learn==1.9.1
+xgboost==3.4.1
+pandas==3.1.1
+numpy==2.5.4
+scipy==1.18.1
+joblib==1.6.0
+matplotlib==3.11.2
+requests==2.34.2
+
+# Bat goi tin va trich dac trung luong (can Python >= 3.12)
+scapy==2.8.0
+cicflowmeter==0.5.0
